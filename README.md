@@ -22,9 +22,9 @@
     - 인용: `>` 기호로 인용문 표시
     - 표: `|` 와 `-`로 표 생성
 3. 참고 사이트
-    - [Markdown 공식 사이트(John Gruber)](https://daringfireball.net/projects/markdown/)
-    - [GitHub Markdown 가이드](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-    - [CommonMark](https://commonmark.org/) - 마크다운 표준화 프로젝트
+    - Markdown 공식 사이트(John Gruber) - (https://daringfireball.net/projects/markdown/)
+    - GitHub Markdown 가이드 - (https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    - CommonMark - (https://commonmark.org/) - 마크다운 표준화 프로젝트
 
 ## 깃허브에서는 README.md 파일을 왜 사용하는가?
 - GitHub에서 README.md 파일은 저장소(repository)의 첫 페이지에 자동으로 표시되는 문서이다.
@@ -33,8 +33,8 @@
 - 마크다운 형식으로 작성되어 텍스트 편집기에서 쉽게 편집할 수 있으면서도, GitHub에서 보기 좋게 렌더링된다.
 
 - 참고 사이트
-  - [GitHub Docs - README 정보](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-  - [GitHub Guides - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  - GitHub Docs - README 정보- (https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+  - GitHub Guides - Mastering Markdown - (https://guides.github.com/features/mastering-markdown/)
 
 (과제: 조사하기, 커밋까지)
 (git add .)
