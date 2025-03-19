@@ -35,7 +35,3 @@
 - 참고 사이트
   - GitHub Docs - README 정보- (https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
   - GitHub Guides - Mastering Markdown - (https://guides.github.com/features/mastering-markdown/)
-
-(과제: 조사하기, 커밋까지)
-(git add .)
-(git commit -m "마크다운 업데이트")
